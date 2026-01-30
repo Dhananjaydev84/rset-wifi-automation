@@ -1,0 +1,14 @@
+.body
+{
+    margin: 50px;
+    height: 200px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.container
+{
+    text-align: center;
+
+}
