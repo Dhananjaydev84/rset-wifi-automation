@@ -1,9 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "Simple prompt",
+  "name": "SkipHostel-Wifi",
   "version": "1.0",
-  "permissions": ["tabs", "scripting","storage"],
-  "host_permissions": ["<all_urls>"],   
+  "permissions": [
+    "tabs",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
   "action": {
     "default_popup": "popup.html"
   }
